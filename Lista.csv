@@ -1,2 +1,9 @@
 Katherine;Rocha;Prado;65379569;kyrocha-es@udabol.edu.bo;pradokathyta@gmail.com;pradokathyta@gmail.com
 Roger ;Ruiz;Escobar;74223544;rruiz@udabol.edu.boi;rruiz_1@hotmail.com;rruiz_!@hotmail.com
+echo "# Kathy-1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Kathy-1/Kathy-1.git
+git push -u origin main
